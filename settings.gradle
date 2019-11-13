@@ -1,2 +1,2 @@
-include ':app', ':myapplication'
-rootProject.name='My Application'
+include ':app'
+rootProject.name='My Greedy Apps'
